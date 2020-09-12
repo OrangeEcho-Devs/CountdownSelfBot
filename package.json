@@ -1,0 +1,23 @@
+{
+  "name": "countdownselfbot",
+  "version": "1.0.0",
+  "description": "Just triggers the countdown bot, nothing else really",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeEcho-Devs/CountdownSelfBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeEcho-Devs/CountdownSelfBot/issues"
+  },
+  "homepage": "https://github.com/OrangeEcho-Devs/CountdownSelfBot#readme",
+  "dependencies": {
+    "discord.js": "11.6.4",
+    "quick.db": "^7.1.1"
+  }
+}
